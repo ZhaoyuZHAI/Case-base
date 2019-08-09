@@ -1,0 +1,11 @@
+Case ID	Pest type	Pest quantity	Pest stage	Infected area	Crop name	Growth stage	Planting density	Temperature_min	Temperature_max	Humidity	Rainfall	Sunlight	Wind speed	Solution
+1	RP	335	Puape	77	Rice	Reproductive	473	21	30	57.49%	72.15%	4830	2	-
+2	RP	320	Adult	56	Rice	Ripening	272	16	30	60.27%	37.39%	831	4	-
+3	RP	384	Larvae	87	Rice	Vegetative	479	15	29	87.06%	17.34%	3338	3	-
+4	RP	390	Larvae	109	Rice	Ripening	367	21	32	35.22%	82.90%	3273	1	-
+5	RP	323	Puape	76	Rice	Vegetative	345	16	32	25.73%	51.26%	1888	2	-
+6	CS	309	Larvae	75	Rice	Reproductive	358	16	29	36.04%	12.50%	4146	7	-
+7	CS	356	Adult	146	Rice	Ripening	285	20	25	65.68%	61.93%	3972	1	-
+8	CS	334	Egg	168	Rice	Reproductive	274	18	32	43.35%	25.79%	2680	8	-
+9	CS	458	Larvae	95	Rice	Reproductive	217	22	32	31.02%	80.42%	995	3	-
+10	CS	345	Egg	157	Rice	Reproductive	355	17	24	46.05%	14.48%	4742	5	-
